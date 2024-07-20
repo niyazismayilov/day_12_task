@@ -1,6 +1,6 @@
 # Day 12 task
 
-Day 2 üçün task.
+Day 12 üçün task.
 
 ## Getting Started
 
