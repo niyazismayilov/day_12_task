@@ -1,16 +1,14 @@
-# day_3_tapsiriq
+# Day 12 task
 
-Day 3 duzgun implementasiya
+Day 2 üçün task.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Tapşırıqlar :
 
-A few resources to get you started if this is your first Flutter project:
+1. Figma-da göstərilən bu Login səhifəsini yığın.
+https://www.figma.com/design/nvoQ1KFX9cRJ52974nNwu1/Login-(Community)?
+node-id=0-1&t=SjByw7jUObKMEBRJ-0
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Bu reponu download etməzdən əvvəl mütləq özünüz cəhd edin 
+sonra burdakı düzgün cavablara baxın.
